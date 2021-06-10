@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<class>
+	<name>
+		<N1></N1>
+		<N2>Naman</N2>
+		<N3>Kumar</N3>
+		<N4>Math</N4>
+		<N5>rahul</N5>
+	</name>
+
+	<job>
+		<L1></L1>
+		<L2>103</L2>
+		<L3>104</L3>
+		<L4>1025</L4>
+	</job>
+
+	<student>
+		<id>103</id>
+		<firstname>Harsh</firstname>
+		<lastname>Singh</lastname>
+		<subject>English</subject>
+		<marks>70</marks>
+	</student>
+
+	<student>
+		<id>104</id>
+		<firstname>Jitesh</firstname>
+		<lastname>Singh</lastname>
+		<subject>Physics</subject>
+		<marks>76</marks>
+	</student>
+
+</class> 
